@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sber-test/static/js/main.d7c3305c.chunk.js",
+    "main.js.map": "/sber-test/static/js/main.d7c3305c.chunk.js.map",
+    "runtime-main.js": "/sber-test/static/js/runtime-main.77fc9004.js",
+    "runtime-main.js.map": "/sber-test/static/js/runtime-main.77fc9004.js.map",
+    "static/js/2.a5b63919.chunk.js": "/sber-test/static/js/2.a5b63919.chunk.js",
+    "static/js/2.a5b63919.chunk.js.map": "/sber-test/static/js/2.a5b63919.chunk.js.map",
+    "static/js/3.9ff555ef.chunk.js": "/sber-test/static/js/3.9ff555ef.chunk.js",
+    "static/js/3.9ff555ef.chunk.js.map": "/sber-test/static/js/3.9ff555ef.chunk.js.map",
+    "index.html": "/sber-test/index.html",
+    "static/js/2.a5b63919.chunk.js.LICENSE.txt": "/sber-test/static/js/2.a5b63919.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77fc9004.js",
+    "static/js/2.a5b63919.chunk.js",
+    "static/js/main.d7c3305c.chunk.js"
+  ]
+}
